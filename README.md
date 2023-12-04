@@ -19,5 +19,7 @@ In my video presentation, I discuss the significance of Donald Knuth's Dancing L
 
 # Resources
 [YouTube Presentation](https://www.youtube.com/watch?v=cFQxXQfnnwo)
+
 [Sudoku Solver Application](https://danieldotwav.github.io/DLX-Sudoku-Puzzle-Solver/)
+
 [Donald Knuth's Dancing Links Article](https://arxiv.org/pdf/cs/0011047.pdf)
